@@ -3,9 +3,10 @@ RENCANA CODING SAYA
  *ES6
  *Framework Javascript
  ^ vew
+ ^ react
 - Struktur data dasar
 - PHP Framework
-^ laravel
+ ^ laravel
 - Interview
 - Vlogs
 - python
